@@ -1,5 +1,5 @@
 {
-  "name": "@oclif/command",
+  "name": "@phibar/command",
   "description": "oclif base command",
   "version": "1.5.5",
   "author": "Jeff Dickey @jdxcode",
